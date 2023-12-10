@@ -1,8 +1,10 @@
 testCases\TC_003_LoginTest.class
+testCases\Tc_005_SearchPage.class
 PageObjects\AccountRegistrationPage.class
 PageObjects\BasePage.class
 testBase\BaseClass.class
 Utilities\ExcelUtility.class
+testCases\TC_007_LoginDDT2.class
 PageObjects\HomePage.class
 PageObjects\MyAccountPage.class
 PageObjects\LoginPage.class
